@@ -1,4 +1,4 @@
-### Dim1_z
+### Dim1z
 
 ## Who am I?
 
@@ -44,9 +44,9 @@ Please take a look at my pinned projects to learn more and follow me to see my n
   
 
 ## Socials
-[![Discord (1st Hangout)](https://discord.gg/hxb6Kf8Z9q)
-[![Discord (2nd Project)](https://discord.gg/hxb6Kf8Z9q)
+[Discord 1](https://discord.gg/hxb6Kf8Z9q)
+[Discord 2](https://discord.gg/hxb6Kf8Z9q)
 
-[![Youtube (Free Fire)](https://www.youtube.com/@Dim1z_Freefire)
+[Youtube](https://www.youtube.com/@Dim1z_Freefire)
 
  
