@@ -49,4 +49,10 @@ Please take a look at my pinned projects to learn more and follow me to see my n
 
 [Youtube](https://www.youtube.com/@Dim1z_Freefire)
 
+-----------------------------------------------------------------------------------------------------------
+(He/Him)
+Developer of Phantom Project | Multitools Creator
+FaZe L3gendDZanツ — C++ • JavaScript • Python • Linux Fluent in Greek & English | Fan of Squid Game
+-----------------------------------------------------------------------------------------------------------
+
  
