@@ -13,8 +13,8 @@ Please take a look at my pinned projects to learn more and follow me to see my n
 ## Products I've made
 
 1. [Phantom Project](https://github.com/di1mz35/Phantom) - OGFN Project, written in Dart and C++ (See Release)
-2. [Reboot Launcher](https://github.com/dim1z35/Discord_Nitro_Gen-PY) - A Generator, written fully in Python
-3. [Artemis](https://github.com/dim1z35/Multitools) - Multitools, written in Batch and Python
+2. [Discord Nitro Gen](https://github.com/dim1z35/Discord_Nitro_Gen-PY) - A Generator, written fully in Python
+3. [Multitools](https://github.com/dim1z35/Multitools) - Multitools, written in Batch and Python
 
 ## Stack
 
