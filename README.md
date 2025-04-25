@@ -12,20 +12,18 @@ Please take a look at my pinned projects to learn more and follow me to see my n
 
 ## Projects I've made
 
-1. [Phantom Project](https://github.com/dim1z35/Phantom) - OGFN Project, written in Dart and C++ (See Release)
+1. [Phantom Project](https://github.com/dim1z35/Phantom) - OGFN Project, written in Dart and C++
 2. [Discord Nitro Gen](https://github.com/dim1z35/Discord_Nitro_Gen-PY) - A Generator, written fully in Python
-3. [Multitools](https://github.com/dim1z35/Multitools) - Multitools, written in Batch and Python
-
+3. [Multitools](https://github.com/dim1z35/Multitools) - Multitools, written in Batch, Python
+ and one of C#
 ## Stack
 
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   
   I've used Java for almost three years, and many of my projects are written in Java, ranging from reverse engineering to compilers.
-  I've been also using Kotlin for around three years for mostly the same reasons.
   
-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Groovy](https://img.shields.io/badge/Groovy-5E97B6?style=for-the-badge&logo=Apache%20Groovy&logoColor=white)
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   
-  I've worked with Groovy a fair bit for some private projects and an old version of ModernProtobuf, now Groovy is no longer used. 
   I've also used Python for many medium-sized private projects, mainly around web scraping and automation.
 
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -35,24 +33,23 @@ Please take a look at my pinned projects to learn more and follow me to see my n
 - ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
   I've used Dart for Flutter.
-  Talking about Flutter, I've used it on Desktop development.
   You can check the Phantom repo if you want to try a publicly available program for Windows that follows the FluentUI spec developed using Flutter Desktop.
 
 - ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   
-  After a couple of years of using only Java, I learned C++ when I became interested in CS.
+  After a couple of years of using only Python, I learned C++ and intrested in Java
   
 
 ## Socials
-[Discord 1](https://discord.gg/hxb6Kf8Z9q)
+[Discord 1](https://discord.gg/bzuFJuxghT)
 [Discord 2](https://discord.gg/hxb6Kf8Z9q)
 
-[Youtube](https://www.youtube.com/@Dim1z_Freefire)
+[Youtube](https://www.youtube.com/@Dim1zFN)
 
 -----------------------------------------------------------------------------------------------------------
 (He/Him)
 Developer of Phantom Project | Multitools Creator
-FaZe L3gendDZanツ — C++ • JavaScript • Python • Linux Fluent in Greek & English | Fan of Squid Game
+FaZe L3gendDZanツ — C++ • JavaScript • Python • Linux Fluent in Greek & English | Fan of Fortnite
 -----------------------------------------------------------------------------------------------------------
 
  
