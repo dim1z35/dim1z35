@@ -15,20 +15,16 @@ Please take a look at my pinned projects to learn more and follow me to see my n
 1. [Phantom Project](https://github.com/dim1z35/Phantom) - OGFN Project, written in Dart and C++
 2. [Discord Nitro Gen](https://github.com/dim1z35/Discord_Nitro_Gen-PY) - A Generator, written fully in Python
 3. [Multitools](https://github.com/dim1z35/Multitools) - Multitools, written in Batch, Python
- and one of C#
+ and one in C#
 ## Stack
-
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  
-  I've used Java for almost three years, and many of my projects are written in Java, ranging from reverse engineering to compilers.
   
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   
-  I've also used Python for many medium-sized private projects, mainly around web scraping and automation.
+  Python is my favorite, I've used it for many multitools.
 
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   
-  I've had to learn Javascript and Typescript to contribute to some open-source projects.
+  I've had to learn Javascript and Typescript to contribute some projects.
 
 - ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
@@ -37,8 +33,9 @@ Please take a look at my pinned projects to learn more and follow me to see my n
 
 - ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   
-  After a couple of years of using only Python, I learned C++ and intrested in Java
-  
+  After a couple of years of using only Python, I learned C++
+
+  Favorite: Python
 
 ## Socials
 [Discord 1](https://discord.gg/bzuFJuxghT)
@@ -50,6 +47,5 @@ Please take a look at my pinned projects to learn more and follow me to see my n
 (He/Him)
 Developer of Phantom Project | Multitools Creator
 FaZe L3gendDZanツ — C++ • JavaScript • Python • Linux Fluent in Greek & English | Fan of Fortnite
------------------------------------------------------------------------------------------------------------
 
  
