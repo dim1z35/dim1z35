@@ -31,15 +31,7 @@
 ---
 
 ### PROJECTS  
-Click names to open:  
-
-- [BitForge]() — Automation Framework  
-- [BitRift]() — Data Sync Engine  
-- [Crypcalc]() — HTML / CSS / JS Calculator  
-- [Error404]() — Experimental Environment  
-- [Ghostware]() — Private Network Tools  
-- [Nullhex]() — Security Research Utilities  
-- [Odrat]() — Discord Educational Bot  
+- **Pinned Below**  
 
 ---
 
