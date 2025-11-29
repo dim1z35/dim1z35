@@ -15,7 +15,7 @@
 ---
 
 ### CONTACT  
-[**Email**](mailto:dimzan@dimzan.xyz) *(Currently Fixing Mail Server, Coming Soon)*
+[**Email**](mailto:dimzan@dimzan.xyz)
 
 [**Discord**](https://discord.com/users/1338601214677483632)
 
